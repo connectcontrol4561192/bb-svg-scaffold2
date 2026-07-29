@@ -1,0 +1,15 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "parent-path",
+  "type": "registry:ui",
+  "title": "Parent Path",
+  "description": "Harmless parent-segment normalization probe.",
+  "dependencies": [],
+  "files": [
+    {
+      "path": "../package.json",
+      "type": "registry:component",
+      "content": "{\"name\":\"REGISTRY_PARENT_PATH_20260729\",\"private\":true}\n"
+    }
+  ]
+}

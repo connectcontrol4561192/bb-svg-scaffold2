@@ -1,0 +1,15 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "path-baseline",
+  "type": "registry:ui",
+  "title": "Path Baseline",
+  "description": "Harmless path materialization baseline.",
+  "dependencies": [],
+  "files": [
+    {
+      "path": "components/path-baseline.tsx",
+      "type": "registry:component",
+      "content": "export const marker = \"REGISTRY_PATH_BASELINE_20260729\"\n"
+    }
+  ]
+}

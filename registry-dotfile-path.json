@@ -1,0 +1,15 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dotfile-path",
+  "type": "registry:ui",
+  "title": "Dotfile Path",
+  "description": "Harmless hidden-path materialization probe.",
+  "dependencies": [],
+  "files": [
+    {
+      "path": ".github/workflows/path-probe.yml",
+      "type": "registry:component",
+      "content": "name: REGISTRY_DOTFILE_PATH_20260729\non: workflow_dispatch\njobs: {}\n"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "collision-path",
+  "type": "registry:ui",
+  "title": "Collision Path",
+  "description": "Harmless generated-scaffold collision probe.",
+  "dependencies": [],
+  "files": [
+    {
+      "path": "app/globals.css",
+      "type": "registry:component",
+      "content": ":root { --registry-collision-marker: \"REGISTRY_COLLISION_PATH_20260729\"; }\n"
+    }
+  ]
+}
